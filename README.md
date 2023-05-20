@@ -2,4 +2,4 @@
 contains images of servers for Netbox
 
 # Conventions
-All images have a width of 1400px
+All images have a size of 1400px x 127px (per Unit)
